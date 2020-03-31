@@ -1,0 +1,7 @@
+application:
+  config:
+    profileName: default
+spring:
+  data:
+    mongodb:
+      uri: mongodb://covid:fiap2020cov19@ds333238.mlab.com:33238/heroku_s1bx8x05?retryWrites=false
