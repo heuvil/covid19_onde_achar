@@ -1,10 +1,11 @@
 # covid19_onde_achar
-Aplicação para hospitais, empresas, e pessoas possam cadastrar produtos que não encontram, justificando a necessidade do produto, para que quem tem o produto possa entrar em contato e fornecer tais protudos a quem mais precisa. 
+Aplicação para ~~hospitais, empresas, e~~ pessoas possam cadastrar produtos que não encontram, justificando a necessidade do produto, para que quem tem o produto possa entrar em contato direto com os mesmos e fornecer os protudos a quem mais precisa. 
 
 ## Descritivo da aplicação da e API
 
 A aplicação tem como objetivo permitir que pessoas com dificuldades para encontrar os produtos em escassez, possam registrar quais produtos estão a procura e descrevendo o motivo de procurar aquele produto em específico. 
-A partir desse cadastro, empresas ou pessoas poderiam entrar em contato, informando onde podem encontrar tais produtos. Dependendo do caso e da descrição, empresas poderiam até mesmo realizar doações desses produtos para essas pessoas.
+A partir desse cadastro, empresas ou pessoas poderiam entrar em contato, informando onde encontrar tais produtos. 
+Dependendo do caso e da descrição, empresas poderiam até mesmo realizar doações desses produtos para essas pessoas.
 
 ## Benefícios
 
