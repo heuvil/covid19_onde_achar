@@ -2,18 +2,20 @@ package br.com.fiap.OndeAchar.dto;
 
 import br.com.fiap.OndeAchar.model.Necessidade;
 import br.com.fiap.OndeAchar.model.Usuario;
+import com.fasterxml.jackson.annotation.JsonProperty;
 
 import java.io.Serializable;
 import java.util.List;
 
 public class UsuarioDTO implements Serializable {
+    @JsonProperty("necessidade")
+    private List<Necessidade> necessidades;
 
     private String cpf;
     private String nome;
     private Integer cidade;
     private String email;
     private String celular;
-    private List<Necessidade> necessidades;
 
     public UsuarioDTO() {
     }
